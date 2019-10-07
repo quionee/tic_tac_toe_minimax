@@ -1,6 +1,6 @@
-# tic_tac_toe_minimax
+# Jogo da velha
 
-Versão modificada de "tic-tac-toe-minimax" por Cledersonbc (GNU license)
+Versão modificada de "tic-tac-toe-minimax" por Cledersonbc (GNU license).
 
 Código para o jogo da velha com a utilização de minimax. Duas forma de solução do problema estão implementadas, são elas:
 
