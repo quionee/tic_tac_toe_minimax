@@ -1,4 +1,4 @@
-# Jogo da velha
+### Jogo da velha
 
 Versão modificada de "tic-tac-toe-minimax" por Cledersonbc (GNU license).
 
